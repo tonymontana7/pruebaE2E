@@ -2,7 +2,7 @@
 
 
 var headersSource;
-var resp1;;
+var resp1;
 
 var requestBody;
 var method;
